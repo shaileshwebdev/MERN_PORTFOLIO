@@ -29,7 +29,7 @@ const Projects = () => {
       image: ems,
       tech: ["Node", "Express", "React", "MongoDB"],
       tag: "Full Stack",
-      link: "https://employeemanagementsystem-3-s7ov.onrender.com/employee",
+      link: "https://employeemanagementsystem-3-s7ov.onrender.com",
     },
 
     {
