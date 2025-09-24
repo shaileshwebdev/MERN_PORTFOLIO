@@ -22,14 +22,14 @@ const Projects = () => {
       image: cnc,
       tech: ["Node", "Express", "React", "MongoDB"],
       tag: "Full Stack App",
-      link: "https://github.com/techinfo-youtube/ecommerce-app-2023",
+      link: "https://github.com/shaileshsahani/chitnchat",
     },
     {
       title: "Employee Management System",
       image: ems,
       tech: ["Node", "Express", "React", "MongoDB"],
       tag: "Full Stack",
-      link: "https://github.com/techinfo-youtube/ecommerce-app-2023",
+      link: "https://employeemanagementsystem-3-s7ov.onrender.com/employee",
     },
 
     {
@@ -37,14 +37,14 @@ const Projects = () => {
       image: yt,
       tech: ["NextJs", "ShadcnUI", "YoutubeApi"],
       tag: "Frontend",
-      link: "https://github.com/techinfo-youtube/ecommerce-app-2023",
+      link: "https://youtubefree20.netlify.app",
     },
     {
       title: "Advanced Authentication System Note App",
       image: noteApp,
       tech: ["Node", "Express", "JWT", "Nodemailer", "React"],
       tag: "Backend",
-      link: "https://github.com/techinfo-youtube/ecommerce-app-2023",
+      link: "https://mern-authentication-authorization-s-seven.vercel.app/signup",
     },
   ];
 
